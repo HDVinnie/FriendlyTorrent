@@ -2,7 +2,7 @@
 define("LANG_TITLE", "Friendly Torrent");
 define("LANG_ERROR", "Error");
 define("LANG_ERROR_DISCONNECTED", "You have been disconnected !");
-define("LANG_ERROR_DELETEFORBIDDEN", "You can only delete file from your box !");
+define("LANG_ERROR_DELETEFORBIDDEN", "You can only delete file(s) from your box !");
 define("LANG_ERROR_CANTDELETE", "Can not delete");
 define("LANG_TITLE", "Friendly Torrent");
 define("LANG_DOWNLOADS", "Downloads");
@@ -19,7 +19,7 @@ define("LANG_NO", "No");
 define("LANG_SAVE", "Save");
 define("LANG_LOADING", "Loading");
 define("LANG_ADDING", "Add");
-define("LANG_FILL_ALL_FIELDS", "Please fill all fields !");
+define("LANG_FILL_ALL_FIELDS", "Please fill in all fields !");
 
 //Admin
 define("LANG_CREATE_ACCOUNT", "Create a user account");
@@ -50,15 +50,15 @@ define("LANG_FILE", "File");
 define("LANG_FOLDER", "Folder");
 define("LANG_USE_ON_SERVER", "used on the server");
 define("LANG_OF_SERVER", "of server");
-define("LANG_TO_MUCH_SPACE", "Be careful, no a lot free space !");
+define("LANG_TO_MUCH_SPACE", "Be careful, there is not a lot free space!");
 define("LANG_DOWNLOADING", "DOWNLOADING");
 define("LANG_NO_DOWNLOAD", "NO DL");
 define("LANG_DOWNLOADING_DESC", "Downloading");
-define("LANG_NO_DOWNLOAD_DESC", "You never download this file");
+define("LANG_NO_DOWNLOAD_DESC", "You never downloaded this file");
 
 
 //Account
-define("LANG_BASIC_INFO", "Basics informations");
+define("LANG_BASIC_INFO", "Basic information");
 define("LANG_OLD_PASSWORD", "Old password");
 define("LANG_NEW_PASSWORD", "New password");
 define("LANG_LINK_RSS", "Link to RSS feed");
@@ -77,13 +77,13 @@ define("LANG_ERROR_INEXISTING", "Error : nothing to download !");
 //INBOX
 define("LANG_REPLY", "Reply");
 define("LANG_DELETE_MESSAGE", "Delete this message");
-define("LANG_MESSAGE_SENDED", "Message sended !");
+define("LANG_MESSAGE_SENDED", "Message sent !");
 define("LANG_CONVERSATION_WITH", "Chat with ");
 
 
 //Charts
 define("LANG_NETWORK", "Network");
-define("LANG_MY_NETWORK", "My Network transferts");
+define("LANG_MY_NETWORK", "My Network transfers");
 define("LANG_THIS_MONTH", "this month");
 define("LANG_MONTH_UPLOAD_USE", "Data uploaded this month");
 define("LANG_MONTH_DOWNLOAD_USE", "Data downloaded this month");
@@ -103,7 +103,7 @@ define("LANG_FREE_SPACE", "Free space");
 //Controllers admin
 define("LANG_PASSWORD_DIFERENT", "New passwords are different");
 define("LANG_OLD_PASSWORD_DIFERENT", "Incorrect old password");
-define("LANG_CANT_CREATE_FOLDER", "Can't create boxe folder !");
+define("LANG_CANT_CREATE_FOLDER", "Cannot create box folder !");
 
 //Account
 define("LANG_PASSWORD_CHANGED", "Password changed successfully !");
